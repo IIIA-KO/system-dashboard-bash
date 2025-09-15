@@ -20,7 +20,7 @@ Lightweight, user-friendly, and fully terminal-based.
 
 ## 🎬 Demo
 
-
+[Watch the demo video](./dashboard-demo.mov)
 
 ---
 
@@ -52,6 +52,7 @@ chmod +x dashboard.sh
 ## 🛠 Usage
 
 Launch the interactive menu:
+
 ```bash
 /dashboard.sh
 ```
@@ -71,6 +72,7 @@ Or run specific modules:
 ```
 
 Options support `--refresh <seconds>` for periodic updates:
+
 ```bash
 ./dashboard.sh --cpu --refresh 2
 ```
@@ -80,4 +82,3 @@ Options support `--refresh <seconds>` for periodic updates:
 - Designed for Linux only
 - Requires external tools for some metrics (lm-sensors, sysstat)
 - Minimal Docker images may lack necessary packages
-
