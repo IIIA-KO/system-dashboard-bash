@@ -20,7 +20,7 @@ Lightweight, user-friendly, and fully terminal-based.
 
 ## 🎬 Demo
 
-[![Watch Demo Here](https://img.youtube.com/vi/a_mQYgjBD_c/0.jpg)](https://www.youtube.com/watch?v=a_mQYgjBD_c)
+[![Watch the video](https://img.youtube.com/vi/a_mQYgjBD_c/maxresdefault.jpg)](https://www.youtube.com/watch?v=a_mQYgjBD_c)
 
 ---
 
